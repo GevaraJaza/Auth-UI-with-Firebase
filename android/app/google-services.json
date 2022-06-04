@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1021831536607",
+    "project_id": "peshanginstitute-eaa68",
+    "storage_bucket": "peshanginstitute-eaa68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1021831536607:android:6a3045fb32fcc113c66e6a",
+        "android_client_info": {
+          "package_name": "com.peshang.peshang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1021831536607-3dolarq0atabm5d95l5fjpe14fhs5sb6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1KlOS5tc5xp6Y7sA3eBqauTuDOA0MVvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1021831536607-3dolarq0atabm5d95l5fjpe14fhs5sb6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
