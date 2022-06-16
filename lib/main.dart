@@ -5,6 +5,6 @@ import 'package:peshang/Auth/main_page.dart';
 void main()async {
   WidgetsFlutterBinding.ensureInitialized();
   await Firebase.initializeApp();
-  runApp(MaterialApp(home: MainPage(),));
+  runApp(MaterialApp(home: MainPage(),debugShowCheckedModeBanner: false,));
 }
 
